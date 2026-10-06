@@ -7,8 +7,8 @@ Aplicativo acadêmico em React Native, Expo SDK 57 e JavaScript, com axios e Rea
 | Nome completo | RA 
 | Vinicius Hoffelder | 1137833
 | Victor Quadri | 1136643
-|Joao Buratti | 1136821
-|Eduardo Barreda | 1138704
+| Joao Buratti | 1136821
+| Eduardo Barreda | 1138704
 
 ## Executar no celular
 
